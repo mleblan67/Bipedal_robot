@@ -9,20 +9,20 @@ Criteria: Make a two-legged robot that can walk by itself.
 Constraints: We can't 3D print all the pieces we would want to, due to the price, and we can only use 6 servos because the Arduino can only support that many, printing large flat pieces
 
 ## Materials
-*Acrylic
-*Computer
-*Solidworks
-*6 180 Degree servos
-*Custom 6V battery pack with AA batteries
-*Screws
-*Bolts
-*Nuts
-*Standoffs
-*Arduino
-*Wires
-*3D printed parts
-*Switch
-*Custom PCB
-*LED
+* Acrylic
+* Computer
+* Solidworks
+* 6 180 Degree servos
+* Custom 6V battery pack with AA batteries
+* Screws
+* Bolts
+* Nuts
+* Standoffs
+* Arduino
+* Wires
+* 3D printed parts
+* Switch
+* Custom PCB
+* LED
 
 # Final Product
