@@ -1,5 +1,5 @@
 # BEARR the Bipedal robot
-BEARR The Bipedal Electronic Autonomous Radical Robot. Fully self walking robot built by Max Leblang and Elijah Tolten.
+BEARR The Bipedal Electronic Autonomous Radical Robot. Fully self walking robot built by Max Leblang and Elijah Tolten. Below is video of the our robot walking!
 
 <img src="walk.gif" alt="walk" width="300">
 
